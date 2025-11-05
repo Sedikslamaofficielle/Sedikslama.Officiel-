@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>sedikslama.Officiel - الصفحة الرسمية</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700&display=swap');
+
+    body {
+      font-family: 'Tajawal', sans-serif;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      background-image: url('https://i.postimg.cc/k4z3Jj7L/Picsart-23-06-20-15-35-05-489.png');
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      color: white;
+      text-shadow: 1px 1px 3px #000;
+    }
+
+    .overlay {
+      background-color: rgba(0, 0, 0, 0.4);
+      min-height: 100vh;
+      padding: 80px 20px;
+    }
+
+    h1 {
+      font-size: 30px;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      font-size: 22px;
+      margin-top: 0;
+      color: #f5deb3;
+    }
+
+    h3 {
+      font-size: 20px;
+      margin-top: 10px;
+    }
+
+    .quote {
+      font-size: 22px;
+      font-style: italic;
+      margin: 50px 0;
+    }
+
+    .links a {
+      display: inline-block;
+      margin: 10px;
+      text-decoration: none;
+      background-color: rgba(255, 255, 255, 0.2);
+      color: white;
+      padding: 12px 22px;
+      border-radius: 12px;
+      transition: 0.3s;
+    }
+
+    .links a:hover {
+      background-color: rgba(255, 255, 255, 0.4);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="overlay">
+    <h1>sedikslama.Officiel</h1>
+    <h2>الصفحة الرسمية</h2>
+
+    <h3>Slama Mohamed Sedik Karim</h3>
+
+    <div class="quote">"وعسى أن تكرهوا شيئاً وهو خيرٌ لكم"</div>
+
+    <div class="links">
+      <a href="https://www.instagram.com/sedikslama.officiel" target="_blank">📸 Instagram</a>
+      <a href="https://www.facebook.com/youmna.amouna.50" target="_blank">📘 Facebook</a>
+      <a href="https://www.snapchat.com/add/sedik_slama" target="_blank">👻 Snapchat</a>
+    </div>
+  </div>
+
+</body>
+</html>
